@@ -1,0 +1,31 @@
+\begin{figure}[htp]
+    \centering
+    \includegraphics[width=10cm]{Images/machine learning .png}
+    \caption{The framework of the proposed methodology}
+    \label{fig:The framework of the proposed methodology}
+\end{figure}
+
+\subsection{Dataset }
+Cleveland heart disease dataset, available from the University of California, Irvine (UCI) online repository for machine learning, is the most prominent dataset used by the researchers \cite{misc_heart_disease}. 
+The original Cleveland and Hungarian heart disease datasets comprise 303 and 294 records, respectively, with 14 features. These records were increased to 50,000 records using Mockaroo, the dataset generator tool, to check the robustness of the proposed deep learning model. Thus, the 
+Machine learning  models are ascertained using 50,000 records segmented into 70\% for training task.  
+ The Medical Centre and the Cleveland Clinic Foundation released this dataset on heart disease, which may be found in the UCI repository, along with 2 classes, 14 features, and 303 instances.
+\begin{tabular}{|c|l|p{5cm}|}
+\hline
+\textbf{S. No.} & \textbf{Attribute} & \textbf{Description} \\ \hline
+1 & age & Age of patient in years\\ \hline 
+2 & sex & 1 = male; 0 = female\\ \hline 
+3 & cp & Type of chest pain (1 = angina, 2 = atypical form of angina, 3 = non-angina, 4 = no symptoms of angina)\\ \hline 
+4 & trestbps & Resting blood pressure\\ \hline 
+5 & chol & Cholesterol value\\ \hline 
+6 & fbs & Fasting blood sugar value > 120 mg/dL (1 = true, 0 = false)\\ 
+\hline 
+7 & restecg & Value of ECG at rest (0 = normal, 1 = abnormal (ST-T wave), 2 = definite ventricular)\\ \hline 
+8 & thalach & Maximum heart rate recorded\\ \hline 
+9 & exang & Exercise induced angina (1 = yes; 0 = no)\\ \hline 
+10 & oldpeak & Exercise induced ST Depressi
+11 & slope & Slope of T segment peak exercise (1 = unsloping, 2 = flat, 3 = down sloping)\\ \hline 
+12 & ca & Major vessels number (0–3) coloured by fluoroscopy \\ \hline 
+13 & thal & 3 = normal; 6 = fixed defect; 7 = reversable defect\\ \hline 
+14 & target & The predicted heart disease status (0 = No, 1 = Yes)\\ \hline 
+\end{tabular}
