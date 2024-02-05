@@ -60,7 +60,7 @@ List of all the users<br>
 
 <br><br>
 
-Made By ❤ : [JoeVenner](mailto:ylafrimi@gmail.com)<br>
+Made By ❤ : [Mina Nashat](mailto:menanashat4321@gmail.com)<br>
 **Free Software, Hell Yeah!**
 
 
